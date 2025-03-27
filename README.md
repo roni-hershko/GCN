@@ -1,4 +1,4 @@
-# **<u>Graph Convolutional Networks</u>**
+# **<u>Graph Convolutional Network</u>**
 ## project Overview
 Graph Convolutional Networks (GCNs) have emerged as a powerful framework for analyzing graph-structured data. 
 In this project, we implemented several GCN variants to classify nodes in the Zachary's Karate Club dataset into their respective communities. 
